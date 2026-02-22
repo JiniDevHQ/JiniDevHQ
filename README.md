@@ -1,45 +1,92 @@
 # JiniDev™
 
-JiniDev™ is a developer-first web platform that combines a config-driven CMS with a JavaScript-powered runtime.
+Build beyond traditional CMS.
 
-Build flexible web projects beyond traditional CMS limitations.
+JiniDev™ is a developer-first platform that combines a config-driven CMS with a JavaScript-powered runtime, allowing developers to build flexible web projects without traditional limitations.
 
 ---
 
 ## 🧩 What is JiniDev?
 
-JiniDev allows developers to define admin panels and database structures using configuration files (JSON/INI), while building fully flexible web applications powered by server-side JavaScript.
+JiniDev introduces a different approach to web development:
 
-Instead of fighting rigid CMS systems, you define structure through configuration and implement logic using familiar JavaScript.
+Instead of manually building admin panels and database structures, developers define their system using configuration files (JSON / INI). The platform automatically generates admin interfaces and database structures while giving full control over frontend and backend logic.
 
 ---
 
 ## ⚙️ Core Concepts
 
-### Config-driven Admin
-Define forms, data models and admin interfaces using configuration files.
-Database structures are generated automatically.
+### 🧱 Config-driven Admin (Backoffice)
 
-### JavaScript Runtime
-Use JavaScript for backend logic through isolated runtime execution.
+Define forms, data models and admin interfaces through configuration files.
 
-### Built-in Infrastructure
-- Admin panel engine
-- Authentication starter flows
-- Data management
+- JSON / INI based structure
+- Automatic database generation
+- Built-in admin infrastructure
 - Multi-language support
+- Upload and data management system
+
+Configuration becomes the single source of truth.
 
 ---
 
-## 🔧 Developer Experience
+### 🖥 JavaScript Runtime (Backcode)
 
-- Define structure via config
-- Write logic in JavaScript
-- Build any kind of web project
+Use JavaScript to implement backend logic directly within your web pages.
+
+- Server-side JavaScript execution
+- Isolated runtime environment
+- Built-in host objects (database, navigation, mail, utilities)
+- Flexible logic without traditional backend complexity
 
 ---
 
-## 🚀 Status
+### 🔐 Authentication Starter Infrastructure
+
+JiniDev includes starter authentication flows:
+
+- Login
+- Sign-up
+- Email confirmation
+- Password recovery
+
+Developers can extend or replace these flows to build custom user systems.
+
+---
+
+## 🚀 Developer Experience
+
+- Define structure via configuration
+- Automatic admin panel generation
+- Flexible frontend development
+- JavaScript-powered backend logic
+- Plugin-based extension system
+
+Build anything from content-driven websites to complex web applications.
+
+---
+
+## 🔌 Plugin & Extension Model
+
+Core platform features are free.
+
+Additional integrations and advanced capabilities can be added through extensions:
+
+- External APIs
+- Advanced services
+- Cloud integrations
+
+---
+
+## 🌍 Multi-language Philosophy
+
+JiniDev supports flexible language structures.
+
+Shared content fields allow common values across languages, while developers maintain full control over translation logic.
+
+---
+
+## 🚧 Status
 
 Active development.
 
